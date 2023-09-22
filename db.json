@@ -1,0 +1,170 @@
+{
+  "products":[
+      {
+          "id":0,
+          "img":"/images/1.png",
+          "title":"벨티드 트윌 코트",
+          "price":99900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":1,
+          "img":"/images/2.png",
+          "title":"슬림핏 맘 하이웨이스트 앵클 진",
+          "price":29900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":2,
+          "img":"/images/3.png",
+          "title":"와이드 하이웨이스트 진",
+          "price":39900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":3,
+          "img":"/images/4.png",
+          "title":"퍼프 슬리브 드레스",
+          "price":39900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":4,
+          "img":"/images/5.png",
+          "title":"프릴 디테일 코트",
+          "price":29900,
+          "choice":true,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":5,
+          "img":"/images/6.png",
+          "title":"자카드 셔츠 드레스",
+          "price":39900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":6,
+          "img":"/images/7.png",
+          "title":"더블 브레스티드 재킷",
+          "price":39900,
+          "choice":true,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":7,
+          "img":"/images/8.png",
+          "title":"오버사이즈 액티비티 드레스",
+          "price":99900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":8,
+          "img":"/images/9.png",
+          "title":"프린트 크롭트 탑",
+          "price":14900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":9,
+          "img":"/images/10.png",
+          "title":"프린트 티셔츠",
+          "price":19900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":10,
+          "img":"/images/11.png",
+          "title":"와이드 트윌 팬츠",
+          "price":19900,
+          "choice":true,
+          "new":false,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":11,
+          "img":"/images/12.png",
+          "title":"플레어 로라이즈 진",
+          "price":29900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":12,
+          "img":"/images/13.png",
+          "title":"프린트 크롭트 탑",
+          "price":14900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":13,
+          "img":"/images/14.png",
+          "title":"플레어 로라이즈 진",
+          "price":29900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+      },
+      {
+          "id":14,
+          "img":"/images/15.png",
+          "title":"스프링 슈트 팬츠",
+          "price":29900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+      },
+      {
+          "id":14,
+          "img":"/images/16.png",
+          "title":"윈터 니트 재켓",
+          "price":29900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+      },
+      {
+          "id":15,
+          "img":"/images/17.png",
+          "title":"스트립트 재켓",
+          "price":29900,
+          "choice":false,
+          "new":false,
+          "size":["S","M","L"]
+      }
+  ]
+}
