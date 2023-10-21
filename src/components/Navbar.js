@@ -5,7 +5,7 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import { Link, useNavigate } from "react-router-dom";
 
 const Navbar = ({authenticate, setAuthenticate}) => {
-  const menuList = ["여성","Divided","남성","신생아/유아","아동","H&M Home","Sale","지속가능성"];
+  const menuList = ["전체","여성","남성","아동","Accessories","SALE"];
   const navigate = useNavigate();
   const goToLogin=()=>{
     navigate("/login")
@@ -35,7 +35,7 @@ const Navbar = ({authenticate, setAuthenticate}) => {
       </div>
           <div className='nav-section'>
             <Link to="/">
-            <img width={150} src="/jh.png" alt="회사 이미지" />
+            <img width={100} src="/local.png" alt="회사 이미지" />
             </Link>           
           </div>
           <div className="menu-area">
